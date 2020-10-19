@@ -7,7 +7,6 @@ package pboif2.pkg10119067.latihan1.biodata;
 
 /**
  *
- * @author Zainul Rifqi
  * NAMA     : Andreas Danhago P.I
  * KELAS    : IF2
  * NIM      : 10119067
