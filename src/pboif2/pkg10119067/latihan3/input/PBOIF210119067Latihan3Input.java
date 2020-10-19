@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pboif2.pkg10119067.latihan1.biodata;
+package pboif2.pkg10119067.latihan2.deklarasivariabel;
 
 /**
  *
- * NAMA     : Andreas Danhago P.I
+ *
+ * NAMA     : Andreas Danhago
  * KELAS    : IF2
  * NIM      : 10119067
- * Deskripsi Program : Program ini berisi program untuk menampilkan
- * jenis-jenis tipe data bilangan bulat
+ * Deskripsi Program : Deklarasi & Pengaksesan
  */
-public class PBOIF210119067Latihan1Biodata {
+public class PBOIF210119067 {
 
     /**
      * @param args the command line arguments
